@@ -1,4 +1,4 @@
-# newone
+# Energy Use Prediction
 
 Accurately predict the total energy use in a low energy building using the UCI data (open source) collected in 2017
 ●	This being a time series prediction project, we followed an end-to-end solution following a typical ML process including data sourcing, identifying data characteristics, data cleaning, data exploration, feature scaling, feature selection, creation of a performance analysis framework, model pre-processing, parameter optimization, running ML models, model selection and ultimate judgment
